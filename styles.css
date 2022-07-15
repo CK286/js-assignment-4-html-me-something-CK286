@@ -17,6 +17,7 @@ header {
     color: white;
     padding: 25px;
     margin: 0px;
+    height: auto;
 
 }
 
@@ -24,6 +25,18 @@ main {
     width: 100%;
     padding:30px 100px;
     box-sizing:border-box;
+}
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+img {
+    width: 250 px;
+    margin: 12px;
 }
 
 footer {
@@ -34,6 +47,12 @@ footer {
 /* ids */
 #mainheading{
     background-color: red;
+    color: white;
+    padding: 25px;
+    margin: 0px;
+    height: auto;
+    text-align: center;
+    font-style: italic;
   }
 #funparagraph{
     background-color: green;
